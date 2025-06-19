@@ -1,0 +1,3502 @@
+[
+  {
+    "english": "the",
+    "uzbek": "bu, u",
+    "partOfSpeech": "Article",
+    "frequency": 1,
+    "example": "The book is on the table"
+  },
+  {
+    "english": "be",
+    "uzbek": "bo'lmoq",
+    "partOfSpeech": "Verb",
+    "frequency": 2,
+    "example": "I want to be happy"
+  },
+  {
+    "english": "and",
+    "uzbek": "va",
+    "partOfSpeech": "Conjunction",
+    "frequency": 3,
+    "example": "You and me"
+  },
+  {
+    "english": "of",
+    "uzbek": "-ning",
+    "partOfSpeech": "Preposition",
+    "frequency": 4,
+    "example": "Book of science"
+  },
+  {
+    "english": "a",
+    "uzbek": "bir",
+    "partOfSpeech": "Article",
+    "frequency": 5,
+    "example": "A beautiful day"
+  },
+  {
+    "english": "in",
+    "uzbek": "ichida, -da",
+    "partOfSpeech": "Preposition",
+    "frequency": 6,
+    "example": "In the house"
+  },
+  {
+    "english": "to",
+    "uzbek": "ga, -ga",
+    "partOfSpeech": "Preposition",
+    "frequency": 7,
+    "example": "Go to school"
+  },
+  {
+    "english": "have",
+    "uzbek": "ega bo'lmoq",
+    "partOfSpeech": "Verb",
+    "frequency": 8,
+    "example": "I have a book"
+  },
+  {
+    "english": "it",
+    "uzbek": "u (narsa)",
+    "partOfSpeech": "Pronoun",
+    "frequency": 9,
+    "example": "It is beautiful"
+  },
+  {
+    "english": "I",
+    "uzbek": "men",
+    "partOfSpeech": "Pronoun",
+    "frequency": 10,
+    "example": "I am student"
+  },
+  {
+    "english": "that",
+    "uzbek": "bu, o'sha",
+    "partOfSpeech": "Pronoun",
+    "frequency": 11,
+    "example": "That is my car"
+  },
+  {
+    "english": "for",
+    "uzbek": "uchun",
+    "partOfSpeech": "Preposition",
+    "frequency": 12,
+    "example": "Gift for you"
+  },
+  {
+    "english": "you",
+    "uzbek": "siz, sen",
+    "partOfSpeech": "Pronoun",
+    "frequency": 13,
+    "example": "You are kind"
+  },
+  {
+    "english": "he",
+    "uzbek": "u (erkak)",
+    "partOfSpeech": "Pronoun",
+    "frequency": 14,
+    "example": "He is teacher"
+  },
+  {
+    "english": "with",
+    "uzbek": "bilan",
+    "partOfSpeech": "Preposition",
+    "frequency": 15,
+    "example": "Come with me"
+  },
+  {
+    "english": "on",
+    "uzbek": "ustida",
+    "partOfSpeech": "Preposition",
+    "frequency": 16,
+    "example": "Book on table"
+  },
+  {
+    "english": "do",
+    "uzbek": "qilmoq",
+    "partOfSpeech": "Verb",
+    "frequency": 17,
+    "example": "Do your homework"
+  },
+  {
+    "english": "say",
+    "uzbek": "demoq",
+    "partOfSpeech": "Verb",
+    "frequency": 18,
+    "example": "Say hello"
+  },
+  {
+    "english": "this",
+    "uzbek": "bu",
+    "partOfSpeech": "Pronoun",
+    "frequency": 19,
+    "example": "This is my house"
+  },
+  {
+    "english": "they",
+    "uzbek": "ular",
+    "partOfSpeech": "Pronoun",
+    "frequency": 20,
+    "example": "They are students"
+  },
+  {
+    "english": "at",
+    "uzbek": "-da",
+    "partOfSpeech": "Preposition",
+    "frequency": 21,
+    "example": "At home"
+  },
+  {
+    "english": "but",
+    "uzbek": "lekin",
+    "partOfSpeech": "Conjunction",
+    "frequency": 22,
+    "example": "Good but expensive"
+  },
+  {
+    "english": "we",
+    "uzbek": "biz",
+    "partOfSpeech": "Pronoun",
+    "frequency": 23,
+    "example": "We are friends"
+  },
+  {
+    "english": "his",
+    "uzbek": "uning",
+    "partOfSpeech": "Pronoun",
+    "frequency": 24,
+    "example": "His book"
+  },
+  {
+    "english": "from",
+    "uzbek": "-dan",
+    "partOfSpeech": "Preposition",
+    "frequency": 25,
+    "example": "From school"
+  },
+  {
+    "english": "not",
+    "uzbek": "emas",
+    "partOfSpeech": "Adverb",
+    "frequency": 26,
+    "example": "It is not good"
+  },
+  {
+    "english": "by",
+    "uzbek": "tomonidan",
+    "partOfSpeech": "Preposition",
+    "frequency": 27,
+    "example": "Made by hand"
+  },
+  {
+    "english": "she",
+    "uzbek": "u (ayol)",
+    "partOfSpeech": "Pronoun",
+    "frequency": 28,
+    "example": "She is beautiful"
+  },
+  {
+    "english": "or",
+    "uzbek": "yoki",
+    "partOfSpeech": "Conjunction",
+    "frequency": 29,
+    "example": "Tea or coffee"
+  },
+  {
+    "english": "as",
+    "uzbek": "sifatida",
+    "partOfSpeech": "Conjunction",
+    "frequency": 30,
+    "example": "Work as doctor"
+  },
+  {
+    "english": "what",
+    "uzbek": "nima",
+    "partOfSpeech": "Pronoun",
+    "frequency": 31,
+    "example": "What is this?"
+  },
+  {
+    "english": "go",
+    "uzbek": "bormoq",
+    "partOfSpeech": "Verb",
+    "frequency": 32,
+    "example": "Go home"
+  },
+  {
+    "english": "their",
+    "uzbek": "ularning",
+    "partOfSpeech": "Pronoun",
+    "frequency": 33,
+    "example": "Their house"
+  },
+  {
+    "english": "can",
+    "uzbek": "olmoq (qobiliyat)",
+    "partOfSpeech": "Modal",
+    "frequency": 34,
+    "example": "I can do it"
+  },
+  {
+    "english": "who",
+    "uzbek": "kim",
+    "partOfSpeech": "Pronoun",
+    "frequency": 35,
+    "example": "Who is that?"
+  },
+  {
+    "english": "get",
+    "uzbek": "olmoq",
+    "partOfSpeech": "Verb",
+    "frequency": 36,
+    "example": "Get the book"
+  },
+  {
+    "english": "if",
+    "uzbek": "agar",
+    "partOfSpeech": "Conjunction",
+    "frequency": 37,
+    "example": "If you want"
+  },
+  {
+    "english": "would",
+    "uzbek": "edi",
+    "partOfSpeech": "Modal",
+    "frequency": 38,
+    "example": "I would like"
+  },
+  {
+    "english": "her",
+    "uzbek": "uning (ayol)",
+    "partOfSpeech": "Pronoun",
+    "frequency": 39,
+    "example": "Her name"
+  },
+  {
+    "english": "all",
+    "uzbek": "hammasi",
+    "partOfSpeech": "Pronoun",
+    "frequency": 40,
+    "example": "All students"
+  },
+  {
+    "english": "my",
+    "uzbek": "mening",
+    "partOfSpeech": "Pronoun",
+    "frequency": 41,
+    "example": "My friend"
+  },
+  {
+    "english": "make",
+    "uzbek": "qilmoq, yasamoq",
+    "partOfSpeech": "Verb",
+    "frequency": 42,
+    "example": "Make a cake"
+  },
+  {
+    "english": "about",
+    "uzbek": "haqida",
+    "partOfSpeech": "Preposition",
+    "frequency": 43,
+    "example": "About the book"
+  },
+  {
+    "english": "know",
+    "uzbek": "bilmoq",
+    "partOfSpeech": "Verb",
+    "frequency": 44,
+    "example": "I know you"
+  },
+  {
+    "english": "will",
+    "uzbek": "bo'ladi",
+    "partOfSpeech": "Modal",
+    "frequency": 45,
+    "example": "I will come"
+  },
+  {
+    "english": "as",
+    "uzbek": "kabi",
+    "partOfSpeech": "Conjunction",
+    "frequency": 46,
+    "example": "As you wish"
+  },
+  {
+    "english": "up",
+    "uzbek": "yuqoriga",
+    "partOfSpeech": "Adverb",
+    "frequency": 47,
+    "example": "Go up"
+  },
+  {
+    "english": "one",
+    "uzbek": "bir",
+    "partOfSpeech": "Number",
+    "frequency": 48,
+    "example": "One book"
+  },
+  {
+    "english": "time",
+    "uzbek": "vaqt",
+    "partOfSpeech": "Noun",
+    "frequency": 49,
+    "example": "What time is it?"
+  },
+  {
+    "english": "there",
+    "uzbek": "u yerda",
+    "partOfSpeech": "Adverb",
+    "frequency": 50,
+    "example": "There is book"
+  },
+  {
+    "english": "word51",
+    "uzbek": "so'z51",
+    "partOfSpeech": "Noun",
+    "frequency": 51,
+    "example": "Example sentence for word51"
+  },
+  {
+    "english": "word52",
+    "uzbek": "so'z52",
+    "partOfSpeech": "Noun",
+    "frequency": 52,
+    "example": "Example sentence for word52"
+  },
+  {
+    "english": "word53",
+    "uzbek": "so'z53",
+    "partOfSpeech": "Noun",
+    "frequency": 53,
+    "example": "Example sentence for word53"
+  },
+  {
+    "english": "word54",
+    "uzbek": "so'z54",
+    "partOfSpeech": "Noun",
+    "frequency": 54,
+    "example": "Example sentence for word54"
+  },
+  {
+    "english": "word55",
+    "uzbek": "so'z55",
+    "partOfSpeech": "Noun",
+    "frequency": 55,
+    "example": "Example sentence for word55"
+  },
+  {
+    "english": "word56",
+    "uzbek": "so'z56",
+    "partOfSpeech": "Noun",
+    "frequency": 56,
+    "example": "Example sentence for word56"
+  },
+  {
+    "english": "word57",
+    "uzbek": "so'z57",
+    "partOfSpeech": "Noun",
+    "frequency": 57,
+    "example": "Example sentence for word57"
+  },
+  {
+    "english": "word58",
+    "uzbek": "so'z58",
+    "partOfSpeech": "Noun",
+    "frequency": 58,
+    "example": "Example sentence for word58"
+  },
+  {
+    "english": "word59",
+    "uzbek": "so'z59",
+    "partOfSpeech": "Noun",
+    "frequency": 59,
+    "example": "Example sentence for word59"
+  },
+  {
+    "english": "word60",
+    "uzbek": "so'z60",
+    "partOfSpeech": "Noun",
+    "frequency": 60,
+    "example": "Example sentence for word60"
+  },
+  {
+    "english": "word61",
+    "uzbek": "so'z61",
+    "partOfSpeech": "Noun",
+    "frequency": 61,
+    "example": "Example sentence for word61"
+  },
+  {
+    "english": "word62",
+    "uzbek": "so'z62",
+    "partOfSpeech": "Noun",
+    "frequency": 62,
+    "example": "Example sentence for word62"
+  },
+  {
+    "english": "word63",
+    "uzbek": "so'z63",
+    "partOfSpeech": "Noun",
+    "frequency": 63,
+    "example": "Example sentence for word63"
+  },
+  {
+    "english": "word64",
+    "uzbek": "so'z64",
+    "partOfSpeech": "Noun",
+    "frequency": 64,
+    "example": "Example sentence for word64"
+  },
+  {
+    "english": "word65",
+    "uzbek": "so'z65",
+    "partOfSpeech": "Noun",
+    "frequency": 65,
+    "example": "Example sentence for word65"
+  },
+  {
+    "english": "word66",
+    "uzbek": "so'z66",
+    "partOfSpeech": "Noun",
+    "frequency": 66,
+    "example": "Example sentence for word66"
+  },
+  {
+    "english": "word67",
+    "uzbek": "so'z67",
+    "partOfSpeech": "Noun",
+    "frequency": 67,
+    "example": "Example sentence for word67"
+  },
+  {
+    "english": "word68",
+    "uzbek": "so'z68",
+    "partOfSpeech": "Noun",
+    "frequency": 68,
+    "example": "Example sentence for word68"
+  },
+  {
+    "english": "word69",
+    "uzbek": "so'z69",
+    "partOfSpeech": "Noun",
+    "frequency": 69,
+    "example": "Example sentence for word69"
+  },
+  {
+    "english": "word70",
+    "uzbek": "so'z70",
+    "partOfSpeech": "Noun",
+    "frequency": 70,
+    "example": "Example sentence for word70"
+  },
+  {
+    "english": "word71",
+    "uzbek": "so'z71",
+    "partOfSpeech": "Noun",
+    "frequency": 71,
+    "example": "Example sentence for word71"
+  },
+  {
+    "english": "word72",
+    "uzbek": "so'z72",
+    "partOfSpeech": "Noun",
+    "frequency": 72,
+    "example": "Example sentence for word72"
+  },
+  {
+    "english": "word73",
+    "uzbek": "so'z73",
+    "partOfSpeech": "Noun",
+    "frequency": 73,
+    "example": "Example sentence for word73"
+  },
+  {
+    "english": "word74",
+    "uzbek": "so'z74",
+    "partOfSpeech": "Noun",
+    "frequency": 74,
+    "example": "Example sentence for word74"
+  },
+  {
+    "english": "word75",
+    "uzbek": "so'z75",
+    "partOfSpeech": "Noun",
+    "frequency": 75,
+    "example": "Example sentence for word75"
+  },
+  {
+    "english": "word76",
+    "uzbek": "so'z76",
+    "partOfSpeech": "Noun",
+    "frequency": 76,
+    "example": "Example sentence for word76"
+  },
+  {
+    "english": "word77",
+    "uzbek": "so'z77",
+    "partOfSpeech": "Noun",
+    "frequency": 77,
+    "example": "Example sentence for word77"
+  },
+  {
+    "english": "word78",
+    "uzbek": "so'z78",
+    "partOfSpeech": "Noun",
+    "frequency": 78,
+    "example": "Example sentence for word78"
+  },
+  {
+    "english": "word79",
+    "uzbek": "so'z79",
+    "partOfSpeech": "Noun",
+    "frequency": 79,
+    "example": "Example sentence for word79"
+  },
+  {
+    "english": "word80",
+    "uzbek": "so'z80",
+    "partOfSpeech": "Noun",
+    "frequency": 80,
+    "example": "Example sentence for word80"
+  },
+  {
+    "english": "word81",
+    "uzbek": "so'z81",
+    "partOfSpeech": "Noun",
+    "frequency": 81,
+    "example": "Example sentence for word81"
+  },
+  {
+    "english": "word82",
+    "uzbek": "so'z82",
+    "partOfSpeech": "Noun",
+    "frequency": 82,
+    "example": "Example sentence for word82"
+  },
+  {
+    "english": "word83",
+    "uzbek": "so'z83",
+    "partOfSpeech": "Noun",
+    "frequency": 83,
+    "example": "Example sentence for word83"
+  },
+  {
+    "english": "word84",
+    "uzbek": "so'z84",
+    "partOfSpeech": "Noun",
+    "frequency": 84,
+    "example": "Example sentence for word84"
+  },
+  {
+    "english": "word85",
+    "uzbek": "so'z85",
+    "partOfSpeech": "Noun",
+    "frequency": 85,
+    "example": "Example sentence for word85"
+  },
+  {
+    "english": "word86",
+    "uzbek": "so'z86",
+    "partOfSpeech": "Noun",
+    "frequency": 86,
+    "example": "Example sentence for word86"
+  },
+  {
+    "english": "word87",
+    "uzbek": "so'z87",
+    "partOfSpeech": "Noun",
+    "frequency": 87,
+    "example": "Example sentence for word87"
+  },
+  {
+    "english": "word88",
+    "uzbek": "so'z88",
+    "partOfSpeech": "Noun",
+    "frequency": 88,
+    "example": "Example sentence for word88"
+  },
+  {
+    "english": "word89",
+    "uzbek": "so'z89",
+    "partOfSpeech": "Noun",
+    "frequency": 89,
+    "example": "Example sentence for word89"
+  },
+  {
+    "english": "word90",
+    "uzbek": "so'z90",
+    "partOfSpeech": "Noun",
+    "frequency": 90,
+    "example": "Example sentence for word90"
+  },
+  {
+    "english": "word91",
+    "uzbek": "so'z91",
+    "partOfSpeech": "Noun",
+    "frequency": 91,
+    "example": "Example sentence for word91"
+  },
+  {
+    "english": "word92",
+    "uzbek": "so'z92",
+    "partOfSpeech": "Noun",
+    "frequency": 92,
+    "example": "Example sentence for word92"
+  },
+  {
+    "english": "word93",
+    "uzbek": "so'z93",
+    "partOfSpeech": "Noun",
+    "frequency": 93,
+    "example": "Example sentence for word93"
+  },
+  {
+    "english": "word94",
+    "uzbek": "so'z94",
+    "partOfSpeech": "Noun",
+    "frequency": 94,
+    "example": "Example sentence for word94"
+  },
+  {
+    "english": "word95",
+    "uzbek": "so'z95",
+    "partOfSpeech": "Noun",
+    "frequency": 95,
+    "example": "Example sentence for word95"
+  },
+  {
+    "english": "word96",
+    "uzbek": "so'z96",
+    "partOfSpeech": "Noun",
+    "frequency": 96,
+    "example": "Example sentence for word96"
+  },
+  {
+    "english": "word97",
+    "uzbek": "so'z97",
+    "partOfSpeech": "Noun",
+    "frequency": 97,
+    "example": "Example sentence for word97"
+  },
+  {
+    "english": "word98",
+    "uzbek": "so'z98",
+    "partOfSpeech": "Noun",
+    "frequency": 98,
+    "example": "Example sentence for word98"
+  },
+  {
+    "english": "word99",
+    "uzbek": "so'z99",
+    "partOfSpeech": "Noun",
+    "frequency": 99,
+    "example": "Example sentence for word99"
+  },
+  {
+    "english": "word100",
+    "uzbek": "so'z100",
+    "partOfSpeech": "Noun",
+    "frequency": 100,
+    "example": "Example sentence for word100"
+  },
+  {
+    "english": "word101",
+    "uzbek": "so'z101",
+    "partOfSpeech": "Noun",
+    "frequency": 101,
+    "example": "Example sentence for word101"
+  },
+  {
+    "english": "word102",
+    "uzbek": "so'z102",
+    "partOfSpeech": "Noun",
+    "frequency": 102,
+    "example": "Example sentence for word102"
+  },
+  {
+    "english": "word103",
+    "uzbek": "so'z103",
+    "partOfSpeech": "Noun",
+    "frequency": 103,
+    "example": "Example sentence for word103"
+  },
+  {
+    "english": "word104",
+    "uzbek": "so'z104",
+    "partOfSpeech": "Noun",
+    "frequency": 104,
+    "example": "Example sentence for word104"
+  },
+  {
+    "english": "word105",
+    "uzbek": "so'z105",
+    "partOfSpeech": "Noun",
+    "frequency": 105,
+    "example": "Example sentence for word105"
+  },
+  {
+    "english": "word106",
+    "uzbek": "so'z106",
+    "partOfSpeech": "Noun",
+    "frequency": 106,
+    "example": "Example sentence for word106"
+  },
+  {
+    "english": "word107",
+    "uzbek": "so'z107",
+    "partOfSpeech": "Noun",
+    "frequency": 107,
+    "example": "Example sentence for word107"
+  },
+  {
+    "english": "word108",
+    "uzbek": "so'z108",
+    "partOfSpeech": "Noun",
+    "frequency": 108,
+    "example": "Example sentence for word108"
+  },
+  {
+    "english": "word109",
+    "uzbek": "so'z109",
+    "partOfSpeech": "Noun",
+    "frequency": 109,
+    "example": "Example sentence for word109"
+  },
+  {
+    "english": "word110",
+    "uzbek": "so'z110",
+    "partOfSpeech": "Noun",
+    "frequency": 110,
+    "example": "Example sentence for word110"
+  },
+  {
+    "english": "word111",
+    "uzbek": "so'z111",
+    "partOfSpeech": "Noun",
+    "frequency": 111,
+    "example": "Example sentence for word111"
+  },
+  {
+    "english": "word112",
+    "uzbek": "so'z112",
+    "partOfSpeech": "Noun",
+    "frequency": 112,
+    "example": "Example sentence for word112"
+  },
+  {
+    "english": "word113",
+    "uzbek": "so'z113",
+    "partOfSpeech": "Noun",
+    "frequency": 113,
+    "example": "Example sentence for word113"
+  },
+  {
+    "english": "word114",
+    "uzbek": "so'z114",
+    "partOfSpeech": "Noun",
+    "frequency": 114,
+    "example": "Example sentence for word114"
+  },
+  {
+    "english": "word115",
+    "uzbek": "so'z115",
+    "partOfSpeech": "Noun",
+    "frequency": 115,
+    "example": "Example sentence for word115"
+  },
+  {
+    "english": "word116",
+    "uzbek": "so'z116",
+    "partOfSpeech": "Noun",
+    "frequency": 116,
+    "example": "Example sentence for word116"
+  },
+  {
+    "english": "word117",
+    "uzbek": "so'z117",
+    "partOfSpeech": "Noun",
+    "frequency": 117,
+    "example": "Example sentence for word117"
+  },
+  {
+    "english": "word118",
+    "uzbek": "so'z118",
+    "partOfSpeech": "Noun",
+    "frequency": 118,
+    "example": "Example sentence for word118"
+  },
+  {
+    "english": "word119",
+    "uzbek": "so'z119",
+    "partOfSpeech": "Noun",
+    "frequency": 119,
+    "example": "Example sentence for word119"
+  },
+  {
+    "english": "word120",
+    "uzbek": "so'z120",
+    "partOfSpeech": "Noun",
+    "frequency": 120,
+    "example": "Example sentence for word120"
+  },
+  {
+    "english": "word121",
+    "uzbek": "so'z121",
+    "partOfSpeech": "Noun",
+    "frequency": 121,
+    "example": "Example sentence for word121"
+  },
+  {
+    "english": "word122",
+    "uzbek": "so'z122",
+    "partOfSpeech": "Noun",
+    "frequency": 122,
+    "example": "Example sentence for word122"
+  },
+  {
+    "english": "word123",
+    "uzbek": "so'z123",
+    "partOfSpeech": "Noun",
+    "frequency": 123,
+    "example": "Example sentence for word123"
+  },
+  {
+    "english": "word124",
+    "uzbek": "so'z124",
+    "partOfSpeech": "Noun",
+    "frequency": 124,
+    "example": "Example sentence for word124"
+  },
+  {
+    "english": "word125",
+    "uzbek": "so'z125",
+    "partOfSpeech": "Noun",
+    "frequency": 125,
+    "example": "Example sentence for word125"
+  },
+  {
+    "english": "word126",
+    "uzbek": "so'z126",
+    "partOfSpeech": "Noun",
+    "frequency": 126,
+    "example": "Example sentence for word126"
+  },
+  {
+    "english": "word127",
+    "uzbek": "so'z127",
+    "partOfSpeech": "Noun",
+    "frequency": 127,
+    "example": "Example sentence for word127"
+  },
+  {
+    "english": "word128",
+    "uzbek": "so'z128",
+    "partOfSpeech": "Noun",
+    "frequency": 128,
+    "example": "Example sentence for word128"
+  },
+  {
+    "english": "word129",
+    "uzbek": "so'z129",
+    "partOfSpeech": "Noun",
+    "frequency": 129,
+    "example": "Example sentence for word129"
+  },
+  {
+    "english": "word130",
+    "uzbek": "so'z130",
+    "partOfSpeech": "Noun",
+    "frequency": 130,
+    "example": "Example sentence for word130"
+  },
+  {
+    "english": "word131",
+    "uzbek": "so'z131",
+    "partOfSpeech": "Noun",
+    "frequency": 131,
+    "example": "Example sentence for word131"
+  },
+  {
+    "english": "word132",
+    "uzbek": "so'z132",
+    "partOfSpeech": "Noun",
+    "frequency": 132,
+    "example": "Example sentence for word132"
+  },
+  {
+    "english": "word133",
+    "uzbek": "so'z133",
+    "partOfSpeech": "Noun",
+    "frequency": 133,
+    "example": "Example sentence for word133"
+  },
+  {
+    "english": "word134",
+    "uzbek": "so'z134",
+    "partOfSpeech": "Noun",
+    "frequency": 134,
+    "example": "Example sentence for word134"
+  },
+  {
+    "english": "word135",
+    "uzbek": "so'z135",
+    "partOfSpeech": "Noun",
+    "frequency": 135,
+    "example": "Example sentence for word135"
+  },
+  {
+    "english": "word136",
+    "uzbek": "so'z136",
+    "partOfSpeech": "Noun",
+    "frequency": 136,
+    "example": "Example sentence for word136"
+  },
+  {
+    "english": "word137",
+    "uzbek": "so'z137",
+    "partOfSpeech": "Noun",
+    "frequency": 137,
+    "example": "Example sentence for word137"
+  },
+  {
+    "english": "word138",
+    "uzbek": "so'z138",
+    "partOfSpeech": "Noun",
+    "frequency": 138,
+    "example": "Example sentence for word138"
+  },
+  {
+    "english": "word139",
+    "uzbek": "so'z139",
+    "partOfSpeech": "Noun",
+    "frequency": 139,
+    "example": "Example sentence for word139"
+  },
+  {
+    "english": "word140",
+    "uzbek": "so'z140",
+    "partOfSpeech": "Noun",
+    "frequency": 140,
+    "example": "Example sentence for word140"
+  },
+  {
+    "english": "word141",
+    "uzbek": "so'z141",
+    "partOfSpeech": "Noun",
+    "frequency": 141,
+    "example": "Example sentence for word141"
+  },
+  {
+    "english": "word142",
+    "uzbek": "so'z142",
+    "partOfSpeech": "Noun",
+    "frequency": 142,
+    "example": "Example sentence for word142"
+  },
+  {
+    "english": "word143",
+    "uzbek": "so'z143",
+    "partOfSpeech": "Noun",
+    "frequency": 143,
+    "example": "Example sentence for word143"
+  },
+  {
+    "english": "word144",
+    "uzbek": "so'z144",
+    "partOfSpeech": "Noun",
+    "frequency": 144,
+    "example": "Example sentence for word144"
+  },
+  {
+    "english": "word145",
+    "uzbek": "so'z145",
+    "partOfSpeech": "Noun",
+    "frequency": 145,
+    "example": "Example sentence for word145"
+  },
+  {
+    "english": "word146",
+    "uzbek": "so'z146",
+    "partOfSpeech": "Noun",
+    "frequency": 146,
+    "example": "Example sentence for word146"
+  },
+  {
+    "english": "word147",
+    "uzbek": "so'z147",
+    "partOfSpeech": "Noun",
+    "frequency": 147,
+    "example": "Example sentence for word147"
+  },
+  {
+    "english": "word148",
+    "uzbek": "so'z148",
+    "partOfSpeech": "Noun",
+    "frequency": 148,
+    "example": "Example sentence for word148"
+  },
+  {
+    "english": "word149",
+    "uzbek": "so'z149",
+    "partOfSpeech": "Noun",
+    "frequency": 149,
+    "example": "Example sentence for word149"
+  },
+  {
+    "english": "word150",
+    "uzbek": "so'z150",
+    "partOfSpeech": "Noun",
+    "frequency": 150,
+    "example": "Example sentence for word150"
+  },
+  {
+    "english": "word151",
+    "uzbek": "so'z151",
+    "partOfSpeech": "Noun",
+    "frequency": 151,
+    "example": "Example sentence for word151"
+  },
+  {
+    "english": "word152",
+    "uzbek": "so'z152",
+    "partOfSpeech": "Noun",
+    "frequency": 152,
+    "example": "Example sentence for word152"
+  },
+  {
+    "english": "word153",
+    "uzbek": "so'z153",
+    "partOfSpeech": "Noun",
+    "frequency": 153,
+    "example": "Example sentence for word153"
+  },
+  {
+    "english": "word154",
+    "uzbek": "so'z154",
+    "partOfSpeech": "Noun",
+    "frequency": 154,
+    "example": "Example sentence for word154"
+  },
+  {
+    "english": "word155",
+    "uzbek": "so'z155",
+    "partOfSpeech": "Noun",
+    "frequency": 155,
+    "example": "Example sentence for word155"
+  },
+  {
+    "english": "word156",
+    "uzbek": "so'z156",
+    "partOfSpeech": "Noun",
+    "frequency": 156,
+    "example": "Example sentence for word156"
+  },
+  {
+    "english": "word157",
+    "uzbek": "so'z157",
+    "partOfSpeech": "Noun",
+    "frequency": 157,
+    "example": "Example sentence for word157"
+  },
+  {
+    "english": "word158",
+    "uzbek": "so'z158",
+    "partOfSpeech": "Noun",
+    "frequency": 158,
+    "example": "Example sentence for word158"
+  },
+  {
+    "english": "word159",
+    "uzbek": "so'z159",
+    "partOfSpeech": "Noun",
+    "frequency": 159,
+    "example": "Example sentence for word159"
+  },
+  {
+    "english": "word160",
+    "uzbek": "so'z160",
+    "partOfSpeech": "Noun",
+    "frequency": 160,
+    "example": "Example sentence for word160"
+  },
+  {
+    "english": "word161",
+    "uzbek": "so'z161",
+    "partOfSpeech": "Noun",
+    "frequency": 161,
+    "example": "Example sentence for word161"
+  },
+  {
+    "english": "word162",
+    "uzbek": "so'z162",
+    "partOfSpeech": "Noun",
+    "frequency": 162,
+    "example": "Example sentence for word162"
+  },
+  {
+    "english": "word163",
+    "uzbek": "so'z163",
+    "partOfSpeech": "Noun",
+    "frequency": 163,
+    "example": "Example sentence for word163"
+  },
+  {
+    "english": "word164",
+    "uzbek": "so'z164",
+    "partOfSpeech": "Noun",
+    "frequency": 164,
+    "example": "Example sentence for word164"
+  },
+  {
+    "english": "word165",
+    "uzbek": "so'z165",
+    "partOfSpeech": "Noun",
+    "frequency": 165,
+    "example": "Example sentence for word165"
+  },
+  {
+    "english": "word166",
+    "uzbek": "so'z166",
+    "partOfSpeech": "Noun",
+    "frequency": 166,
+    "example": "Example sentence for word166"
+  },
+  {
+    "english": "word167",
+    "uzbek": "so'z167",
+    "partOfSpeech": "Noun",
+    "frequency": 167,
+    "example": "Example sentence for word167"
+  },
+  {
+    "english": "word168",
+    "uzbek": "so'z168",
+    "partOfSpeech": "Noun",
+    "frequency": 168,
+    "example": "Example sentence for word168"
+  },
+  {
+    "english": "word169",
+    "uzbek": "so'z169",
+    "partOfSpeech": "Noun",
+    "frequency": 169,
+    "example": "Example sentence for word169"
+  },
+  {
+    "english": "word170",
+    "uzbek": "so'z170",
+    "partOfSpeech": "Noun",
+    "frequency": 170,
+    "example": "Example sentence for word170"
+  },
+  {
+    "english": "word171",
+    "uzbek": "so'z171",
+    "partOfSpeech": "Noun",
+    "frequency": 171,
+    "example": "Example sentence for word171"
+  },
+  {
+    "english": "word172",
+    "uzbek": "so'z172",
+    "partOfSpeech": "Noun",
+    "frequency": 172,
+    "example": "Example sentence for word172"
+  },
+  {
+    "english": "word173",
+    "uzbek": "so'z173",
+    "partOfSpeech": "Noun",
+    "frequency": 173,
+    "example": "Example sentence for word173"
+  },
+  {
+    "english": "word174",
+    "uzbek": "so'z174",
+    "partOfSpeech": "Noun",
+    "frequency": 174,
+    "example": "Example sentence for word174"
+  },
+  {
+    "english": "word175",
+    "uzbek": "so'z175",
+    "partOfSpeech": "Noun",
+    "frequency": 175,
+    "example": "Example sentence for word175"
+  },
+  {
+    "english": "word176",
+    "uzbek": "so'z176",
+    "partOfSpeech": "Noun",
+    "frequency": 176,
+    "example": "Example sentence for word176"
+  },
+  {
+    "english": "word177",
+    "uzbek": "so'z177",
+    "partOfSpeech": "Noun",
+    "frequency": 177,
+    "example": "Example sentence for word177"
+  },
+  {
+    "english": "word178",
+    "uzbek": "so'z178",
+    "partOfSpeech": "Noun",
+    "frequency": 178,
+    "example": "Example sentence for word178"
+  },
+  {
+    "english": "word179",
+    "uzbek": "so'z179",
+    "partOfSpeech": "Noun",
+    "frequency": 179,
+    "example": "Example sentence for word179"
+  },
+  {
+    "english": "word180",
+    "uzbek": "so'z180",
+    "partOfSpeech": "Noun",
+    "frequency": 180,
+    "example": "Example sentence for word180"
+  },
+  {
+    "english": "word181",
+    "uzbek": "so'z181",
+    "partOfSpeech": "Noun",
+    "frequency": 181,
+    "example": "Example sentence for word181"
+  },
+  {
+    "english": "word182",
+    "uzbek": "so'z182",
+    "partOfSpeech": "Noun",
+    "frequency": 182,
+    "example": "Example sentence for word182"
+  },
+  {
+    "english": "word183",
+    "uzbek": "so'z183",
+    "partOfSpeech": "Noun",
+    "frequency": 183,
+    "example": "Example sentence for word183"
+  },
+  {
+    "english": "word184",
+    "uzbek": "so'z184",
+    "partOfSpeech": "Noun",
+    "frequency": 184,
+    "example": "Example sentence for word184"
+  },
+  {
+    "english": "word185",
+    "uzbek": "so'z185",
+    "partOfSpeech": "Noun",
+    "frequency": 185,
+    "example": "Example sentence for word185"
+  },
+  {
+    "english": "word186",
+    "uzbek": "so'z186",
+    "partOfSpeech": "Noun",
+    "frequency": 186,
+    "example": "Example sentence for word186"
+  },
+  {
+    "english": "word187",
+    "uzbek": "so'z187",
+    "partOfSpeech": "Noun",
+    "frequency": 187,
+    "example": "Example sentence for word187"
+  },
+  {
+    "english": "word188",
+    "uzbek": "so'z188",
+    "partOfSpeech": "Noun",
+    "frequency": 188,
+    "example": "Example sentence for word188"
+  },
+  {
+    "english": "word189",
+    "uzbek": "so'z189",
+    "partOfSpeech": "Noun",
+    "frequency": 189,
+    "example": "Example sentence for word189"
+  },
+  {
+    "english": "word190",
+    "uzbek": "so'z190",
+    "partOfSpeech": "Noun",
+    "frequency": 190,
+    "example": "Example sentence for word190"
+  },
+  {
+    "english": "word191",
+    "uzbek": "so'z191",
+    "partOfSpeech": "Noun",
+    "frequency": 191,
+    "example": "Example sentence for word191"
+  },
+  {
+    "english": "word192",
+    "uzbek": "so'z192",
+    "partOfSpeech": "Noun",
+    "frequency": 192,
+    "example": "Example sentence for word192"
+  },
+  {
+    "english": "word193",
+    "uzbek": "so'z193",
+    "partOfSpeech": "Noun",
+    "frequency": 193,
+    "example": "Example sentence for word193"
+  },
+  {
+    "english": "word194",
+    "uzbek": "so'z194",
+    "partOfSpeech": "Noun",
+    "frequency": 194,
+    "example": "Example sentence for word194"
+  },
+  {
+    "english": "word195",
+    "uzbek": "so'z195",
+    "partOfSpeech": "Noun",
+    "frequency": 195,
+    "example": "Example sentence for word195"
+  },
+  {
+    "english": "word196",
+    "uzbek": "so'z196",
+    "partOfSpeech": "Noun",
+    "frequency": 196,
+    "example": "Example sentence for word196"
+  },
+  {
+    "english": "word197",
+    "uzbek": "so'z197",
+    "partOfSpeech": "Noun",
+    "frequency": 197,
+    "example": "Example sentence for word197"
+  },
+  {
+    "english": "word198",
+    "uzbek": "so'z198",
+    "partOfSpeech": "Noun",
+    "frequency": 198,
+    "example": "Example sentence for word198"
+  },
+  {
+    "english": "word199",
+    "uzbek": "so'z199",
+    "partOfSpeech": "Noun",
+    "frequency": 199,
+    "example": "Example sentence for word199"
+  },
+  {
+    "english": "word200",
+    "uzbek": "so'z200",
+    "partOfSpeech": "Noun",
+    "frequency": 200,
+    "example": "Example sentence for word200"
+  },
+  {
+    "english": "word201",
+    "uzbek": "so'z201",
+    "partOfSpeech": "Noun",
+    "frequency": 201,
+    "example": "Example sentence for word201"
+  },
+  {
+    "english": "word202",
+    "uzbek": "so'z202",
+    "partOfSpeech": "Noun",
+    "frequency": 202,
+    "example": "Example sentence for word202"
+  },
+  {
+    "english": "word203",
+    "uzbek": "so'z203",
+    "partOfSpeech": "Noun",
+    "frequency": 203,
+    "example": "Example sentence for word203"
+  },
+  {
+    "english": "word204",
+    "uzbek": "so'z204",
+    "partOfSpeech": "Noun",
+    "frequency": 204,
+    "example": "Example sentence for word204"
+  },
+  {
+    "english": "word205",
+    "uzbek": "so'z205",
+    "partOfSpeech": "Noun",
+    "frequency": 205,
+    "example": "Example sentence for word205"
+  },
+  {
+    "english": "word206",
+    "uzbek": "so'z206",
+    "partOfSpeech": "Noun",
+    "frequency": 206,
+    "example": "Example sentence for word206"
+  },
+  {
+    "english": "word207",
+    "uzbek": "so'z207",
+    "partOfSpeech": "Noun",
+    "frequency": 207,
+    "example": "Example sentence for word207"
+  },
+  {
+    "english": "word208",
+    "uzbek": "so'z208",
+    "partOfSpeech": "Noun",
+    "frequency": 208,
+    "example": "Example sentence for word208"
+  },
+  {
+    "english": "word209",
+    "uzbek": "so'z209",
+    "partOfSpeech": "Noun",
+    "frequency": 209,
+    "example": "Example sentence for word209"
+  },
+  {
+    "english": "word210",
+    "uzbek": "so'z210",
+    "partOfSpeech": "Noun",
+    "frequency": 210,
+    "example": "Example sentence for word210"
+  },
+  {
+    "english": "word211",
+    "uzbek": "so'z211",
+    "partOfSpeech": "Noun",
+    "frequency": 211,
+    "example": "Example sentence for word211"
+  },
+  {
+    "english": "word212",
+    "uzbek": "so'z212",
+    "partOfSpeech": "Noun",
+    "frequency": 212,
+    "example": "Example sentence for word212"
+  },
+  {
+    "english": "word213",
+    "uzbek": "so'z213",
+    "partOfSpeech": "Noun",
+    "frequency": 213,
+    "example": "Example sentence for word213"
+  },
+  {
+    "english": "word214",
+    "uzbek": "so'z214",
+    "partOfSpeech": "Noun",
+    "frequency": 214,
+    "example": "Example sentence for word214"
+  },
+  {
+    "english": "word215",
+    "uzbek": "so'z215",
+    "partOfSpeech": "Noun",
+    "frequency": 215,
+    "example": "Example sentence for word215"
+  },
+  {
+    "english": "word216",
+    "uzbek": "so'z216",
+    "partOfSpeech": "Noun",
+    "frequency": 216,
+    "example": "Example sentence for word216"
+  },
+  {
+    "english": "word217",
+    "uzbek": "so'z217",
+    "partOfSpeech": "Noun",
+    "frequency": 217,
+    "example": "Example sentence for word217"
+  },
+  {
+    "english": "word218",
+    "uzbek": "so'z218",
+    "partOfSpeech": "Noun",
+    "frequency": 218,
+    "example": "Example sentence for word218"
+  },
+  {
+    "english": "word219",
+    "uzbek": "so'z219",
+    "partOfSpeech": "Noun",
+    "frequency": 219,
+    "example": "Example sentence for word219"
+  },
+  {
+    "english": "word220",
+    "uzbek": "so'z220",
+    "partOfSpeech": "Noun",
+    "frequency": 220,
+    "example": "Example sentence for word220"
+  },
+  {
+    "english": "word221",
+    "uzbek": "so'z221",
+    "partOfSpeech": "Noun",
+    "frequency": 221,
+    "example": "Example sentence for word221"
+  },
+  {
+    "english": "word222",
+    "uzbek": "so'z222",
+    "partOfSpeech": "Noun",
+    "frequency": 222,
+    "example": "Example sentence for word222"
+  },
+  {
+    "english": "word223",
+    "uzbek": "so'z223",
+    "partOfSpeech": "Noun",
+    "frequency": 223,
+    "example": "Example sentence for word223"
+  },
+  {
+    "english": "word224",
+    "uzbek": "so'z224",
+    "partOfSpeech": "Noun",
+    "frequency": 224,
+    "example": "Example sentence for word224"
+  },
+  {
+    "english": "word225",
+    "uzbek": "so'z225",
+    "partOfSpeech": "Noun",
+    "frequency": 225,
+    "example": "Example sentence for word225"
+  },
+  {
+    "english": "word226",
+    "uzbek": "so'z226",
+    "partOfSpeech": "Noun",
+    "frequency": 226,
+    "example": "Example sentence for word226"
+  },
+  {
+    "english": "word227",
+    "uzbek": "so'z227",
+    "partOfSpeech": "Noun",
+    "frequency": 227,
+    "example": "Example sentence for word227"
+  },
+  {
+    "english": "word228",
+    "uzbek": "so'z228",
+    "partOfSpeech": "Noun",
+    "frequency": 228,
+    "example": "Example sentence for word228"
+  },
+  {
+    "english": "word229",
+    "uzbek": "so'z229",
+    "partOfSpeech": "Noun",
+    "frequency": 229,
+    "example": "Example sentence for word229"
+  },
+  {
+    "english": "word230",
+    "uzbek": "so'z230",
+    "partOfSpeech": "Noun",
+    "frequency": 230,
+    "example": "Example sentence for word230"
+  },
+  {
+    "english": "word231",
+    "uzbek": "so'z231",
+    "partOfSpeech": "Noun",
+    "frequency": 231,
+    "example": "Example sentence for word231"
+  },
+  {
+    "english": "word232",
+    "uzbek": "so'z232",
+    "partOfSpeech": "Noun",
+    "frequency": 232,
+    "example": "Example sentence for word232"
+  },
+  {
+    "english": "word233",
+    "uzbek": "so'z233",
+    "partOfSpeech": "Noun",
+    "frequency": 233,
+    "example": "Example sentence for word233"
+  },
+  {
+    "english": "word234",
+    "uzbek": "so'z234",
+    "partOfSpeech": "Noun",
+    "frequency": 234,
+    "example": "Example sentence for word234"
+  },
+  {
+    "english": "word235",
+    "uzbek": "so'z235",
+    "partOfSpeech": "Noun",
+    "frequency": 235,
+    "example": "Example sentence for word235"
+  },
+  {
+    "english": "word236",
+    "uzbek": "so'z236",
+    "partOfSpeech": "Noun",
+    "frequency": 236,
+    "example": "Example sentence for word236"
+  },
+  {
+    "english": "word237",
+    "uzbek": "so'z237",
+    "partOfSpeech": "Noun",
+    "frequency": 237,
+    "example": "Example sentence for word237"
+  },
+  {
+    "english": "word238",
+    "uzbek": "so'z238",
+    "partOfSpeech": "Noun",
+    "frequency": 238,
+    "example": "Example sentence for word238"
+  },
+  {
+    "english": "word239",
+    "uzbek": "so'z239",
+    "partOfSpeech": "Noun",
+    "frequency": 239,
+    "example": "Example sentence for word239"
+  },
+  {
+    "english": "word240",
+    "uzbek": "so'z240",
+    "partOfSpeech": "Noun",
+    "frequency": 240,
+    "example": "Example sentence for word240"
+  },
+  {
+    "english": "word241",
+    "uzbek": "so'z241",
+    "partOfSpeech": "Noun",
+    "frequency": 241,
+    "example": "Example sentence for word241"
+  },
+  {
+    "english": "word242",
+    "uzbek": "so'z242",
+    "partOfSpeech": "Noun",
+    "frequency": 242,
+    "example": "Example sentence for word242"
+  },
+  {
+    "english": "word243",
+    "uzbek": "so'z243",
+    "partOfSpeech": "Noun",
+    "frequency": 243,
+    "example": "Example sentence for word243"
+  },
+  {
+    "english": "word244",
+    "uzbek": "so'z244",
+    "partOfSpeech": "Noun",
+    "frequency": 244,
+    "example": "Example sentence for word244"
+  },
+  {
+    "english": "word245",
+    "uzbek": "so'z245",
+    "partOfSpeech": "Noun",
+    "frequency": 245,
+    "example": "Example sentence for word245"
+  },
+  {
+    "english": "word246",
+    "uzbek": "so'z246",
+    "partOfSpeech": "Noun",
+    "frequency": 246,
+    "example": "Example sentence for word246"
+  },
+  {
+    "english": "word247",
+    "uzbek": "so'z247",
+    "partOfSpeech": "Noun",
+    "frequency": 247,
+    "example": "Example sentence for word247"
+  },
+  {
+    "english": "word248",
+    "uzbek": "so'z248",
+    "partOfSpeech": "Noun",
+    "frequency": 248,
+    "example": "Example sentence for word248"
+  },
+  {
+    "english": "word249",
+    "uzbek": "so'z249",
+    "partOfSpeech": "Noun",
+    "frequency": 249,
+    "example": "Example sentence for word249"
+  },
+  {
+    "english": "word250",
+    "uzbek": "so'z250",
+    "partOfSpeech": "Noun",
+    "frequency": 250,
+    "example": "Example sentence for word250"
+  },
+  {
+    "english": "word251",
+    "uzbek": "so'z251",
+    "partOfSpeech": "Noun",
+    "frequency": 251,
+    "example": "Example sentence for word251"
+  },
+  {
+    "english": "word252",
+    "uzbek": "so'z252",
+    "partOfSpeech": "Noun",
+    "frequency": 252,
+    "example": "Example sentence for word252"
+  },
+  {
+    "english": "word253",
+    "uzbek": "so'z253",
+    "partOfSpeech": "Noun",
+    "frequency": 253,
+    "example": "Example sentence for word253"
+  },
+  {
+    "english": "word254",
+    "uzbek": "so'z254",
+    "partOfSpeech": "Noun",
+    "frequency": 254,
+    "example": "Example sentence for word254"
+  },
+  {
+    "english": "word255",
+    "uzbek": "so'z255",
+    "partOfSpeech": "Noun",
+    "frequency": 255,
+    "example": "Example sentence for word255"
+  },
+  {
+    "english": "word256",
+    "uzbek": "so'z256",
+    "partOfSpeech": "Noun",
+    "frequency": 256,
+    "example": "Example sentence for word256"
+  },
+  {
+    "english": "word257",
+    "uzbek": "so'z257",
+    "partOfSpeech": "Noun",
+    "frequency": 257,
+    "example": "Example sentence for word257"
+  },
+  {
+    "english": "word258",
+    "uzbek": "so'z258",
+    "partOfSpeech": "Noun",
+    "frequency": 258,
+    "example": "Example sentence for word258"
+  },
+  {
+    "english": "word259",
+    "uzbek": "so'z259",
+    "partOfSpeech": "Noun",
+    "frequency": 259,
+    "example": "Example sentence for word259"
+  },
+  {
+    "english": "word260",
+    "uzbek": "so'z260",
+    "partOfSpeech": "Noun",
+    "frequency": 260,
+    "example": "Example sentence for word260"
+  },
+  {
+    "english": "word261",
+    "uzbek": "so'z261",
+    "partOfSpeech": "Noun",
+    "frequency": 261,
+    "example": "Example sentence for word261"
+  },
+  {
+    "english": "word262",
+    "uzbek": "so'z262",
+    "partOfSpeech": "Noun",
+    "frequency": 262,
+    "example": "Example sentence for word262"
+  },
+  {
+    "english": "word263",
+    "uzbek": "so'z263",
+    "partOfSpeech": "Noun",
+    "frequency": 263,
+    "example": "Example sentence for word263"
+  },
+  {
+    "english": "word264",
+    "uzbek": "so'z264",
+    "partOfSpeech": "Noun",
+    "frequency": 264,
+    "example": "Example sentence for word264"
+  },
+  {
+    "english": "word265",
+    "uzbek": "so'z265",
+    "partOfSpeech": "Noun",
+    "frequency": 265,
+    "example": "Example sentence for word265"
+  },
+  {
+    "english": "word266",
+    "uzbek": "so'z266",
+    "partOfSpeech": "Noun",
+    "frequency": 266,
+    "example": "Example sentence for word266"
+  },
+  {
+    "english": "word267",
+    "uzbek": "so'z267",
+    "partOfSpeech": "Noun",
+    "frequency": 267,
+    "example": "Example sentence for word267"
+  },
+  {
+    "english": "word268",
+    "uzbek": "so'z268",
+    "partOfSpeech": "Noun",
+    "frequency": 268,
+    "example": "Example sentence for word268"
+  },
+  {
+    "english": "word269",
+    "uzbek": "so'z269",
+    "partOfSpeech": "Noun",
+    "frequency": 269,
+    "example": "Example sentence for word269"
+  },
+  {
+    "english": "word270",
+    "uzbek": "so'z270",
+    "partOfSpeech": "Noun",
+    "frequency": 270,
+    "example": "Example sentence for word270"
+  },
+  {
+    "english": "word271",
+    "uzbek": "so'z271",
+    "partOfSpeech": "Noun",
+    "frequency": 271,
+    "example": "Example sentence for word271"
+  },
+  {
+    "english": "word272",
+    "uzbek": "so'z272",
+    "partOfSpeech": "Noun",
+    "frequency": 272,
+    "example": "Example sentence for word272"
+  },
+  {
+    "english": "word273",
+    "uzbek": "so'z273",
+    "partOfSpeech": "Noun",
+    "frequency": 273,
+    "example": "Example sentence for word273"
+  },
+  {
+    "english": "word274",
+    "uzbek": "so'z274",
+    "partOfSpeech": "Noun",
+    "frequency": 274,
+    "example": "Example sentence for word274"
+  },
+  {
+    "english": "word275",
+    "uzbek": "so'z275",
+    "partOfSpeech": "Noun",
+    "frequency": 275,
+    "example": "Example sentence for word275"
+  },
+  {
+    "english": "word276",
+    "uzbek": "so'z276",
+    "partOfSpeech": "Noun",
+    "frequency": 276,
+    "example": "Example sentence for word276"
+  },
+  {
+    "english": "word277",
+    "uzbek": "so'z277",
+    "partOfSpeech": "Noun",
+    "frequency": 277,
+    "example": "Example sentence for word277"
+  },
+  {
+    "english": "word278",
+    "uzbek": "so'z278",
+    "partOfSpeech": "Noun",
+    "frequency": 278,
+    "example": "Example sentence for word278"
+  },
+  {
+    "english": "word279",
+    "uzbek": "so'z279",
+    "partOfSpeech": "Noun",
+    "frequency": 279,
+    "example": "Example sentence for word279"
+  },
+  {
+    "english": "word280",
+    "uzbek": "so'z280",
+    "partOfSpeech": "Noun",
+    "frequency": 280,
+    "example": "Example sentence for word280"
+  },
+  {
+    "english": "word281",
+    "uzbek": "so'z281",
+    "partOfSpeech": "Noun",
+    "frequency": 281,
+    "example": "Example sentence for word281"
+  },
+  {
+    "english": "word282",
+    "uzbek": "so'z282",
+    "partOfSpeech": "Noun",
+    "frequency": 282,
+    "example": "Example sentence for word282"
+  },
+  {
+    "english": "word283",
+    "uzbek": "so'z283",
+    "partOfSpeech": "Noun",
+    "frequency": 283,
+    "example": "Example sentence for word283"
+  },
+  {
+    "english": "word284",
+    "uzbek": "so'z284",
+    "partOfSpeech": "Noun",
+    "frequency": 284,
+    "example": "Example sentence for word284"
+  },
+  {
+    "english": "word285",
+    "uzbek": "so'z285",
+    "partOfSpeech": "Noun",
+    "frequency": 285,
+    "example": "Example sentence for word285"
+  },
+  {
+    "english": "word286",
+    "uzbek": "so'z286",
+    "partOfSpeech": "Noun",
+    "frequency": 286,
+    "example": "Example sentence for word286"
+  },
+  {
+    "english": "word287",
+    "uzbek": "so'z287",
+    "partOfSpeech": "Noun",
+    "frequency": 287,
+    "example": "Example sentence for word287"
+  },
+  {
+    "english": "word288",
+    "uzbek": "so'z288",
+    "partOfSpeech": "Noun",
+    "frequency": 288,
+    "example": "Example sentence for word288"
+  },
+  {
+    "english": "word289",
+    "uzbek": "so'z289",
+    "partOfSpeech": "Noun",
+    "frequency": 289,
+    "example": "Example sentence for word289"
+  },
+  {
+    "english": "word290",
+    "uzbek": "so'z290",
+    "partOfSpeech": "Noun",
+    "frequency": 290,
+    "example": "Example sentence for word290"
+  },
+  {
+    "english": "word291",
+    "uzbek": "so'z291",
+    "partOfSpeech": "Noun",
+    "frequency": 291,
+    "example": "Example sentence for word291"
+  },
+  {
+    "english": "word292",
+    "uzbek": "so'z292",
+    "partOfSpeech": "Noun",
+    "frequency": 292,
+    "example": "Example sentence for word292"
+  },
+  {
+    "english": "word293",
+    "uzbek": "so'z293",
+    "partOfSpeech": "Noun",
+    "frequency": 293,
+    "example": "Example sentence for word293"
+  },
+  {
+    "english": "word294",
+    "uzbek": "so'z294",
+    "partOfSpeech": "Noun",
+    "frequency": 294,
+    "example": "Example sentence for word294"
+  },
+  {
+    "english": "word295",
+    "uzbek": "so'z295",
+    "partOfSpeech": "Noun",
+    "frequency": 295,
+    "example": "Example sentence for word295"
+  },
+  {
+    "english": "word296",
+    "uzbek": "so'z296",
+    "partOfSpeech": "Noun",
+    "frequency": 296,
+    "example": "Example sentence for word296"
+  },
+  {
+    "english": "word297",
+    "uzbek": "so'z297",
+    "partOfSpeech": "Noun",
+    "frequency": 297,
+    "example": "Example sentence for word297"
+  },
+  {
+    "english": "word298",
+    "uzbek": "so'z298",
+    "partOfSpeech": "Noun",
+    "frequency": 298,
+    "example": "Example sentence for word298"
+  },
+  {
+    "english": "word299",
+    "uzbek": "so'z299",
+    "partOfSpeech": "Noun",
+    "frequency": 299,
+    "example": "Example sentence for word299"
+  },
+  {
+    "english": "word300",
+    "uzbek": "so'z300",
+    "partOfSpeech": "Noun",
+    "frequency": 300,
+    "example": "Example sentence for word300"
+  },
+  {
+    "english": "word301",
+    "uzbek": "so'z301",
+    "partOfSpeech": "Noun",
+    "frequency": 301,
+    "example": "Example sentence for word301"
+  },
+  {
+    "english": "word302",
+    "uzbek": "so'z302",
+    "partOfSpeech": "Noun",
+    "frequency": 302,
+    "example": "Example sentence for word302"
+  },
+  {
+    "english": "word303",
+    "uzbek": "so'z303",
+    "partOfSpeech": "Noun",
+    "frequency": 303,
+    "example": "Example sentence for word303"
+  },
+  {
+    "english": "word304",
+    "uzbek": "so'z304",
+    "partOfSpeech": "Noun",
+    "frequency": 304,
+    "example": "Example sentence for word304"
+  },
+  {
+    "english": "word305",
+    "uzbek": "so'z305",
+    "partOfSpeech": "Noun",
+    "frequency": 305,
+    "example": "Example sentence for word305"
+  },
+  {
+    "english": "word306",
+    "uzbek": "so'z306",
+    "partOfSpeech": "Noun",
+    "frequency": 306,
+    "example": "Example sentence for word306"
+  },
+  {
+    "english": "word307",
+    "uzbek": "so'z307",
+    "partOfSpeech": "Noun",
+    "frequency": 307,
+    "example": "Example sentence for word307"
+  },
+  {
+    "english": "word308",
+    "uzbek": "so'z308",
+    "partOfSpeech": "Noun",
+    "frequency": 308,
+    "example": "Example sentence for word308"
+  },
+  {
+    "english": "word309",
+    "uzbek": "so'z309",
+    "partOfSpeech": "Noun",
+    "frequency": 309,
+    "example": "Example sentence for word309"
+  },
+  {
+    "english": "word310",
+    "uzbek": "so'z310",
+    "partOfSpeech": "Noun",
+    "frequency": 310,
+    "example": "Example sentence for word310"
+  },
+  {
+    "english": "word311",
+    "uzbek": "so'z311",
+    "partOfSpeech": "Noun",
+    "frequency": 311,
+    "example": "Example sentence for word311"
+  },
+  {
+    "english": "word312",
+    "uzbek": "so'z312",
+    "partOfSpeech": "Noun",
+    "frequency": 312,
+    "example": "Example sentence for word312"
+  },
+  {
+    "english": "word313",
+    "uzbek": "so'z313",
+    "partOfSpeech": "Noun",
+    "frequency": 313,
+    "example": "Example sentence for word313"
+  },
+  {
+    "english": "word314",
+    "uzbek": "so'z314",
+    "partOfSpeech": "Noun",
+    "frequency": 314,
+    "example": "Example sentence for word314"
+  },
+  {
+    "english": "word315",
+    "uzbek": "so'z315",
+    "partOfSpeech": "Noun",
+    "frequency": 315,
+    "example": "Example sentence for word315"
+  },
+  {
+    "english": "word316",
+    "uzbek": "so'z316",
+    "partOfSpeech": "Noun",
+    "frequency": 316,
+    "example": "Example sentence for word316"
+  },
+  {
+    "english": "word317",
+    "uzbek": "so'z317",
+    "partOfSpeech": "Noun",
+    "frequency": 317,
+    "example": "Example sentence for word317"
+  },
+  {
+    "english": "word318",
+    "uzbek": "so'z318",
+    "partOfSpeech": "Noun",
+    "frequency": 318,
+    "example": "Example sentence for word318"
+  },
+  {
+    "english": "word319",
+    "uzbek": "so'z319",
+    "partOfSpeech": "Noun",
+    "frequency": 319,
+    "example": "Example sentence for word319"
+  },
+  {
+    "english": "word320",
+    "uzbek": "so'z320",
+    "partOfSpeech": "Noun",
+    "frequency": 320,
+    "example": "Example sentence for word320"
+  },
+  {
+    "english": "word321",
+    "uzbek": "so'z321",
+    "partOfSpeech": "Noun",
+    "frequency": 321,
+    "example": "Example sentence for word321"
+  },
+  {
+    "english": "word322",
+    "uzbek": "so'z322",
+    "partOfSpeech": "Noun",
+    "frequency": 322,
+    "example": "Example sentence for word322"
+  },
+  {
+    "english": "word323",
+    "uzbek": "so'z323",
+    "partOfSpeech": "Noun",
+    "frequency": 323,
+    "example": "Example sentence for word323"
+  },
+  {
+    "english": "word324",
+    "uzbek": "so'z324",
+    "partOfSpeech": "Noun",
+    "frequency": 324,
+    "example": "Example sentence for word324"
+  },
+  {
+    "english": "word325",
+    "uzbek": "so'z325",
+    "partOfSpeech": "Noun",
+    "frequency": 325,
+    "example": "Example sentence for word325"
+  },
+  {
+    "english": "word326",
+    "uzbek": "so'z326",
+    "partOfSpeech": "Noun",
+    "frequency": 326,
+    "example": "Example sentence for word326"
+  },
+  {
+    "english": "word327",
+    "uzbek": "so'z327",
+    "partOfSpeech": "Noun",
+    "frequency": 327,
+    "example": "Example sentence for word327"
+  },
+  {
+    "english": "word328",
+    "uzbek": "so'z328",
+    "partOfSpeech": "Noun",
+    "frequency": 328,
+    "example": "Example sentence for word328"
+  },
+  {
+    "english": "word329",
+    "uzbek": "so'z329",
+    "partOfSpeech": "Noun",
+    "frequency": 329,
+    "example": "Example sentence for word329"
+  },
+  {
+    "english": "word330",
+    "uzbek": "so'z330",
+    "partOfSpeech": "Noun",
+    "frequency": 330,
+    "example": "Example sentence for word330"
+  },
+  {
+    "english": "word331",
+    "uzbek": "so'z331",
+    "partOfSpeech": "Noun",
+    "frequency": 331,
+    "example": "Example sentence for word331"
+  },
+  {
+    "english": "word332",
+    "uzbek": "so'z332",
+    "partOfSpeech": "Noun",
+    "frequency": 332,
+    "example": "Example sentence for word332"
+  },
+  {
+    "english": "word333",
+    "uzbek": "so'z333",
+    "partOfSpeech": "Noun",
+    "frequency": 333,
+    "example": "Example sentence for word333"
+  },
+  {
+    "english": "word334",
+    "uzbek": "so'z334",
+    "partOfSpeech": "Noun",
+    "frequency": 334,
+    "example": "Example sentence for word334"
+  },
+  {
+    "english": "word335",
+    "uzbek": "so'z335",
+    "partOfSpeech": "Noun",
+    "frequency": 335,
+    "example": "Example sentence for word335"
+  },
+  {
+    "english": "word336",
+    "uzbek": "so'z336",
+    "partOfSpeech": "Noun",
+    "frequency": 336,
+    "example": "Example sentence for word336"
+  },
+  {
+    "english": "word337",
+    "uzbek": "so'z337",
+    "partOfSpeech": "Noun",
+    "frequency": 337,
+    "example": "Example sentence for word337"
+  },
+  {
+    "english": "word338",
+    "uzbek": "so'z338",
+    "partOfSpeech": "Noun",
+    "frequency": 338,
+    "example": "Example sentence for word338"
+  },
+  {
+    "english": "word339",
+    "uzbek": "so'z339",
+    "partOfSpeech": "Noun",
+    "frequency": 339,
+    "example": "Example sentence for word339"
+  },
+  {
+    "english": "word340",
+    "uzbek": "so'z340",
+    "partOfSpeech": "Noun",
+    "frequency": 340,
+    "example": "Example sentence for word340"
+  },
+  {
+    "english": "word341",
+    "uzbek": "so'z341",
+    "partOfSpeech": "Noun",
+    "frequency": 341,
+    "example": "Example sentence for word341"
+  },
+  {
+    "english": "word342",
+    "uzbek": "so'z342",
+    "partOfSpeech": "Noun",
+    "frequency": 342,
+    "example": "Example sentence for word342"
+  },
+  {
+    "english": "word343",
+    "uzbek": "so'z343",
+    "partOfSpeech": "Noun",
+    "frequency": 343,
+    "example": "Example sentence for word343"
+  },
+  {
+    "english": "word344",
+    "uzbek": "so'z344",
+    "partOfSpeech": "Noun",
+    "frequency": 344,
+    "example": "Example sentence for word344"
+  },
+  {
+    "english": "word345",
+    "uzbek": "so'z345",
+    "partOfSpeech": "Noun",
+    "frequency": 345,
+    "example": "Example sentence for word345"
+  },
+  {
+    "english": "word346",
+    "uzbek": "so'z346",
+    "partOfSpeech": "Noun",
+    "frequency": 346,
+    "example": "Example sentence for word346"
+  },
+  {
+    "english": "word347",
+    "uzbek": "so'z347",
+    "partOfSpeech": "Noun",
+    "frequency": 347,
+    "example": "Example sentence for word347"
+  },
+  {
+    "english": "word348",
+    "uzbek": "so'z348",
+    "partOfSpeech": "Noun",
+    "frequency": 348,
+    "example": "Example sentence for word348"
+  },
+  {
+    "english": "word349",
+    "uzbek": "so'z349",
+    "partOfSpeech": "Noun",
+    "frequency": 349,
+    "example": "Example sentence for word349"
+  },
+  {
+    "english": "word350",
+    "uzbek": "so'z350",
+    "partOfSpeech": "Noun",
+    "frequency": 350,
+    "example": "Example sentence for word350"
+  },
+  {
+    "english": "word351",
+    "uzbek": "so'z351",
+    "partOfSpeech": "Noun",
+    "frequency": 351,
+    "example": "Example sentence for word351"
+  },
+  {
+    "english": "word352",
+    "uzbek": "so'z352",
+    "partOfSpeech": "Noun",
+    "frequency": 352,
+    "example": "Example sentence for word352"
+  },
+  {
+    "english": "word353",
+    "uzbek": "so'z353",
+    "partOfSpeech": "Noun",
+    "frequency": 353,
+    "example": "Example sentence for word353"
+  },
+  {
+    "english": "word354",
+    "uzbek": "so'z354",
+    "partOfSpeech": "Noun",
+    "frequency": 354,
+    "example": "Example sentence for word354"
+  },
+  {
+    "english": "word355",
+    "uzbek": "so'z355",
+    "partOfSpeech": "Noun",
+    "frequency": 355,
+    "example": "Example sentence for word355"
+  },
+  {
+    "english": "word356",
+    "uzbek": "so'z356",
+    "partOfSpeech": "Noun",
+    "frequency": 356,
+    "example": "Example sentence for word356"
+  },
+  {
+    "english": "word357",
+    "uzbek": "so'z357",
+    "partOfSpeech": "Noun",
+    "frequency": 357,
+    "example": "Example sentence for word357"
+  },
+  {
+    "english": "word358",
+    "uzbek": "so'z358",
+    "partOfSpeech": "Noun",
+    "frequency": 358,
+    "example": "Example sentence for word358"
+  },
+  {
+    "english": "word359",
+    "uzbek": "so'z359",
+    "partOfSpeech": "Noun",
+    "frequency": 359,
+    "example": "Example sentence for word359"
+  },
+  {
+    "english": "word360",
+    "uzbek": "so'z360",
+    "partOfSpeech": "Noun",
+    "frequency": 360,
+    "example": "Example sentence for word360"
+  },
+  {
+    "english": "word361",
+    "uzbek": "so'z361",
+    "partOfSpeech": "Noun",
+    "frequency": 361,
+    "example": "Example sentence for word361"
+  },
+  {
+    "english": "word362",
+    "uzbek": "so'z362",
+    "partOfSpeech": "Noun",
+    "frequency": 362,
+    "example": "Example sentence for word362"
+  },
+  {
+    "english": "word363",
+    "uzbek": "so'z363",
+    "partOfSpeech": "Noun",
+    "frequency": 363,
+    "example": "Example sentence for word363"
+  },
+  {
+    "english": "word364",
+    "uzbek": "so'z364",
+    "partOfSpeech": "Noun",
+    "frequency": 364,
+    "example": "Example sentence for word364"
+  },
+  {
+    "english": "word365",
+    "uzbek": "so'z365",
+    "partOfSpeech": "Noun",
+    "frequency": 365,
+    "example": "Example sentence for word365"
+  },
+  {
+    "english": "word366",
+    "uzbek": "so'z366",
+    "partOfSpeech": "Noun",
+    "frequency": 366,
+    "example": "Example sentence for word366"
+  },
+  {
+    "english": "word367",
+    "uzbek": "so'z367",
+    "partOfSpeech": "Noun",
+    "frequency": 367,
+    "example": "Example sentence for word367"
+  },
+  {
+    "english": "word368",
+    "uzbek": "so'z368",
+    "partOfSpeech": "Noun",
+    "frequency": 368,
+    "example": "Example sentence for word368"
+  },
+  {
+    "english": "word369",
+    "uzbek": "so'z369",
+    "partOfSpeech": "Noun",
+    "frequency": 369,
+    "example": "Example sentence for word369"
+  },
+  {
+    "english": "word370",
+    "uzbek": "so'z370",
+    "partOfSpeech": "Noun",
+    "frequency": 370,
+    "example": "Example sentence for word370"
+  },
+  {
+    "english": "word371",
+    "uzbek": "so'z371",
+    "partOfSpeech": "Noun",
+    "frequency": 371,
+    "example": "Example sentence for word371"
+  },
+  {
+    "english": "word372",
+    "uzbek": "so'z372",
+    "partOfSpeech": "Noun",
+    "frequency": 372,
+    "example": "Example sentence for word372"
+  },
+  {
+    "english": "word373",
+    "uzbek": "so'z373",
+    "partOfSpeech": "Noun",
+    "frequency": 373,
+    "example": "Example sentence for word373"
+  },
+  {
+    "english": "word374",
+    "uzbek": "so'z374",
+    "partOfSpeech": "Noun",
+    "frequency": 374,
+    "example": "Example sentence for word374"
+  },
+  {
+    "english": "word375",
+    "uzbek": "so'z375",
+    "partOfSpeech": "Noun",
+    "frequency": 375,
+    "example": "Example sentence for word375"
+  },
+  {
+    "english": "word376",
+    "uzbek": "so'z376",
+    "partOfSpeech": "Noun",
+    "frequency": 376,
+    "example": "Example sentence for word376"
+  },
+  {
+    "english": "word377",
+    "uzbek": "so'z377",
+    "partOfSpeech": "Noun",
+    "frequency": 377,
+    "example": "Example sentence for word377"
+  },
+  {
+    "english": "word378",
+    "uzbek": "so'z378",
+    "partOfSpeech": "Noun",
+    "frequency": 378,
+    "example": "Example sentence for word378"
+  },
+  {
+    "english": "word379",
+    "uzbek": "so'z379",
+    "partOfSpeech": "Noun",
+    "frequency": 379,
+    "example": "Example sentence for word379"
+  },
+  {
+    "english": "word380",
+    "uzbek": "so'z380",
+    "partOfSpeech": "Noun",
+    "frequency": 380,
+    "example": "Example sentence for word380"
+  },
+  {
+    "english": "word381",
+    "uzbek": "so'z381",
+    "partOfSpeech": "Noun",
+    "frequency": 381,
+    "example": "Example sentence for word381"
+  },
+  {
+    "english": "word382",
+    "uzbek": "so'z382",
+    "partOfSpeech": "Noun",
+    "frequency": 382,
+    "example": "Example sentence for word382"
+  },
+  {
+    "english": "word383",
+    "uzbek": "so'z383",
+    "partOfSpeech": "Noun",
+    "frequency": 383,
+    "example": "Example sentence for word383"
+  },
+  {
+    "english": "word384",
+    "uzbek": "so'z384",
+    "partOfSpeech": "Noun",
+    "frequency": 384,
+    "example": "Example sentence for word384"
+  },
+  {
+    "english": "word385",
+    "uzbek": "so'z385",
+    "partOfSpeech": "Noun",
+    "frequency": 385,
+    "example": "Example sentence for word385"
+  },
+  {
+    "english": "word386",
+    "uzbek": "so'z386",
+    "partOfSpeech": "Noun",
+    "frequency": 386,
+    "example": "Example sentence for word386"
+  },
+  {
+    "english": "word387",
+    "uzbek": "so'z387",
+    "partOfSpeech": "Noun",
+    "frequency": 387,
+    "example": "Example sentence for word387"
+  },
+  {
+    "english": "word388",
+    "uzbek": "so'z388",
+    "partOfSpeech": "Noun",
+    "frequency": 388,
+    "example": "Example sentence for word388"
+  },
+  {
+    "english": "word389",
+    "uzbek": "so'z389",
+    "partOfSpeech": "Noun",
+    "frequency": 389,
+    "example": "Example sentence for word389"
+  },
+  {
+    "english": "word390",
+    "uzbek": "so'z390",
+    "partOfSpeech": "Noun",
+    "frequency": 390,
+    "example": "Example sentence for word390"
+  },
+  {
+    "english": "word391",
+    "uzbek": "so'z391",
+    "partOfSpeech": "Noun",
+    "frequency": 391,
+    "example": "Example sentence for word391"
+  },
+  {
+    "english": "word392",
+    "uzbek": "so'z392",
+    "partOfSpeech": "Noun",
+    "frequency": 392,
+    "example": "Example sentence for word392"
+  },
+  {
+    "english": "word393",
+    "uzbek": "so'z393",
+    "partOfSpeech": "Noun",
+    "frequency": 393,
+    "example": "Example sentence for word393"
+  },
+  {
+    "english": "word394",
+    "uzbek": "so'z394",
+    "partOfSpeech": "Noun",
+    "frequency": 394,
+    "example": "Example sentence for word394"
+  },
+  {
+    "english": "word395",
+    "uzbek": "so'z395",
+    "partOfSpeech": "Noun",
+    "frequency": 395,
+    "example": "Example sentence for word395"
+  },
+  {
+    "english": "word396",
+    "uzbek": "so'z396",
+    "partOfSpeech": "Noun",
+    "frequency": 396,
+    "example": "Example sentence for word396"
+  },
+  {
+    "english": "word397",
+    "uzbek": "so'z397",
+    "partOfSpeech": "Noun",
+    "frequency": 397,
+    "example": "Example sentence for word397"
+  },
+  {
+    "english": "word398",
+    "uzbek": "so'z398",
+    "partOfSpeech": "Noun",
+    "frequency": 398,
+    "example": "Example sentence for word398"
+  },
+  {
+    "english": "word399",
+    "uzbek": "so'z399",
+    "partOfSpeech": "Noun",
+    "frequency": 399,
+    "example": "Example sentence for word399"
+  },
+  {
+    "english": "word400",
+    "uzbek": "so'z400",
+    "partOfSpeech": "Noun",
+    "frequency": 400,
+    "example": "Example sentence for word400"
+  },
+  {
+    "english": "word401",
+    "uzbek": "so'z401",
+    "partOfSpeech": "Noun",
+    "frequency": 401,
+    "example": "Example sentence for word401"
+  },
+  {
+    "english": "word402",
+    "uzbek": "so'z402",
+    "partOfSpeech": "Noun",
+    "frequency": 402,
+    "example": "Example sentence for word402"
+  },
+  {
+    "english": "word403",
+    "uzbek": "so'z403",
+    "partOfSpeech": "Noun",
+    "frequency": 403,
+    "example": "Example sentence for word403"
+  },
+  {
+    "english": "word404",
+    "uzbek": "so'z404",
+    "partOfSpeech": "Noun",
+    "frequency": 404,
+    "example": "Example sentence for word404"
+  },
+  {
+    "english": "word405",
+    "uzbek": "so'z405",
+    "partOfSpeech": "Noun",
+    "frequency": 405,
+    "example": "Example sentence for word405"
+  },
+  {
+    "english": "word406",
+    "uzbek": "so'z406",
+    "partOfSpeech": "Noun",
+    "frequency": 406,
+    "example": "Example sentence for word406"
+  },
+  {
+    "english": "word407",
+    "uzbek": "so'z407",
+    "partOfSpeech": "Noun",
+    "frequency": 407,
+    "example": "Example sentence for word407"
+  },
+  {
+    "english": "word408",
+    "uzbek": "so'z408",
+    "partOfSpeech": "Noun",
+    "frequency": 408,
+    "example": "Example sentence for word408"
+  },
+  {
+    "english": "word409",
+    "uzbek": "so'z409",
+    "partOfSpeech": "Noun",
+    "frequency": 409,
+    "example": "Example sentence for word409"
+  },
+  {
+    "english": "word410",
+    "uzbek": "so'z410",
+    "partOfSpeech": "Noun",
+    "frequency": 410,
+    "example": "Example sentence for word410"
+  },
+  {
+    "english": "word411",
+    "uzbek": "so'z411",
+    "partOfSpeech": "Noun",
+    "frequency": 411,
+    "example": "Example sentence for word411"
+  },
+  {
+    "english": "word412",
+    "uzbek": "so'z412",
+    "partOfSpeech": "Noun",
+    "frequency": 412,
+    "example": "Example sentence for word412"
+  },
+  {
+    "english": "word413",
+    "uzbek": "so'z413",
+    "partOfSpeech": "Noun",
+    "frequency": 413,
+    "example": "Example sentence for word413"
+  },
+  {
+    "english": "word414",
+    "uzbek": "so'z414",
+    "partOfSpeech": "Noun",
+    "frequency": 414,
+    "example": "Example sentence for word414"
+  },
+  {
+    "english": "word415",
+    "uzbek": "so'z415",
+    "partOfSpeech": "Noun",
+    "frequency": 415,
+    "example": "Example sentence for word415"
+  },
+  {
+    "english": "word416",
+    "uzbek": "so'z416",
+    "partOfSpeech": "Noun",
+    "frequency": 416,
+    "example": "Example sentence for word416"
+  },
+  {
+    "english": "word417",
+    "uzbek": "so'z417",
+    "partOfSpeech": "Noun",
+    "frequency": 417,
+    "example": "Example sentence for word417"
+  },
+  {
+    "english": "word418",
+    "uzbek": "so'z418",
+    "partOfSpeech": "Noun",
+    "frequency": 418,
+    "example": "Example sentence for word418"
+  },
+  {
+    "english": "word419",
+    "uzbek": "so'z419",
+    "partOfSpeech": "Noun",
+    "frequency": 419,
+    "example": "Example sentence for word419"
+  },
+  {
+    "english": "word420",
+    "uzbek": "so'z420",
+    "partOfSpeech": "Noun",
+    "frequency": 420,
+    "example": "Example sentence for word420"
+  },
+  {
+    "english": "word421",
+    "uzbek": "so'z421",
+    "partOfSpeech": "Noun",
+    "frequency": 421,
+    "example": "Example sentence for word421"
+  },
+  {
+    "english": "word422",
+    "uzbek": "so'z422",
+    "partOfSpeech": "Noun",
+    "frequency": 422,
+    "example": "Example sentence for word422"
+  },
+  {
+    "english": "word423",
+    "uzbek": "so'z423",
+    "partOfSpeech": "Noun",
+    "frequency": 423,
+    "example": "Example sentence for word423"
+  },
+  {
+    "english": "word424",
+    "uzbek": "so'z424",
+    "partOfSpeech": "Noun",
+    "frequency": 424,
+    "example": "Example sentence for word424"
+  },
+  {
+    "english": "word425",
+    "uzbek": "so'z425",
+    "partOfSpeech": "Noun",
+    "frequency": 425,
+    "example": "Example sentence for word425"
+  },
+  {
+    "english": "word426",
+    "uzbek": "so'z426",
+    "partOfSpeech": "Noun",
+    "frequency": 426,
+    "example": "Example sentence for word426"
+  },
+  {
+    "english": "word427",
+    "uzbek": "so'z427",
+    "partOfSpeech": "Noun",
+    "frequency": 427,
+    "example": "Example sentence for word427"
+  },
+  {
+    "english": "word428",
+    "uzbek": "so'z428",
+    "partOfSpeech": "Noun",
+    "frequency": 428,
+    "example": "Example sentence for word428"
+  },
+  {
+    "english": "word429",
+    "uzbek": "so'z429",
+    "partOfSpeech": "Noun",
+    "frequency": 429,
+    "example": "Example sentence for word429"
+  },
+  {
+    "english": "word430",
+    "uzbek": "so'z430",
+    "partOfSpeech": "Noun",
+    "frequency": 430,
+    "example": "Example sentence for word430"
+  },
+  {
+    "english": "word431",
+    "uzbek": "so'z431",
+    "partOfSpeech": "Noun",
+    "frequency": 431,
+    "example": "Example sentence for word431"
+  },
+  {
+    "english": "word432",
+    "uzbek": "so'z432",
+    "partOfSpeech": "Noun",
+    "frequency": 432,
+    "example": "Example sentence for word432"
+  },
+  {
+    "english": "word433",
+    "uzbek": "so'z433",
+    "partOfSpeech": "Noun",
+    "frequency": 433,
+    "example": "Example sentence for word433"
+  },
+  {
+    "english": "word434",
+    "uzbek": "so'z434",
+    "partOfSpeech": "Noun",
+    "frequency": 434,
+    "example": "Example sentence for word434"
+  },
+  {
+    "english": "word435",
+    "uzbek": "so'z435",
+    "partOfSpeech": "Noun",
+    "frequency": 435,
+    "example": "Example sentence for word435"
+  },
+  {
+    "english": "word436",
+    "uzbek": "so'z436",
+    "partOfSpeech": "Noun",
+    "frequency": 436,
+    "example": "Example sentence for word436"
+  },
+  {
+    "english": "word437",
+    "uzbek": "so'z437",
+    "partOfSpeech": "Noun",
+    "frequency": 437,
+    "example": "Example sentence for word437"
+  },
+  {
+    "english": "word438",
+    "uzbek": "so'z438",
+    "partOfSpeech": "Noun",
+    "frequency": 438,
+    "example": "Example sentence for word438"
+  },
+  {
+    "english": "word439",
+    "uzbek": "so'z439",
+    "partOfSpeech": "Noun",
+    "frequency": 439,
+    "example": "Example sentence for word439"
+  },
+  {
+    "english": "word440",
+    "uzbek": "so'z440",
+    "partOfSpeech": "Noun",
+    "frequency": 440,
+    "example": "Example sentence for word440"
+  },
+  {
+    "english": "word441",
+    "uzbek": "so'z441",
+    "partOfSpeech": "Noun",
+    "frequency": 441,
+    "example": "Example sentence for word441"
+  },
+  {
+    "english": "word442",
+    "uzbek": "so'z442",
+    "partOfSpeech": "Noun",
+    "frequency": 442,
+    "example": "Example sentence for word442"
+  },
+  {
+    "english": "word443",
+    "uzbek": "so'z443",
+    "partOfSpeech": "Noun",
+    "frequency": 443,
+    "example": "Example sentence for word443"
+  },
+  {
+    "english": "word444",
+    "uzbek": "so'z444",
+    "partOfSpeech": "Noun",
+    "frequency": 444,
+    "example": "Example sentence for word444"
+  },
+  {
+    "english": "word445",
+    "uzbek": "so'z445",
+    "partOfSpeech": "Noun",
+    "frequency": 445,
+    "example": "Example sentence for word445"
+  },
+  {
+    "english": "word446",
+    "uzbek": "so'z446",
+    "partOfSpeech": "Noun",
+    "frequency": 446,
+    "example": "Example sentence for word446"
+  },
+  {
+    "english": "word447",
+    "uzbek": "so'z447",
+    "partOfSpeech": "Noun",
+    "frequency": 447,
+    "example": "Example sentence for word447"
+  },
+  {
+    "english": "word448",
+    "uzbek": "so'z448",
+    "partOfSpeech": "Noun",
+    "frequency": 448,
+    "example": "Example sentence for word448"
+  },
+  {
+    "english": "word449",
+    "uzbek": "so'z449",
+    "partOfSpeech": "Noun",
+    "frequency": 449,
+    "example": "Example sentence for word449"
+  },
+  {
+    "english": "word450",
+    "uzbek": "so'z450",
+    "partOfSpeech": "Noun",
+    "frequency": 450,
+    "example": "Example sentence for word450"
+  },
+  {
+    "english": "word451",
+    "uzbek": "so'z451",
+    "partOfSpeech": "Noun",
+    "frequency": 451,
+    "example": "Example sentence for word451"
+  },
+  {
+    "english": "word452",
+    "uzbek": "so'z452",
+    "partOfSpeech": "Noun",
+    "frequency": 452,
+    "example": "Example sentence for word452"
+  },
+  {
+    "english": "word453",
+    "uzbek": "so'z453",
+    "partOfSpeech": "Noun",
+    "frequency": 453,
+    "example": "Example sentence for word453"
+  },
+  {
+    "english": "word454",
+    "uzbek": "so'z454",
+    "partOfSpeech": "Noun",
+    "frequency": 454,
+    "example": "Example sentence for word454"
+  },
+  {
+    "english": "word455",
+    "uzbek": "so'z455",
+    "partOfSpeech": "Noun",
+    "frequency": 455,
+    "example": "Example sentence for word455"
+  },
+  {
+    "english": "word456",
+    "uzbek": "so'z456",
+    "partOfSpeech": "Noun",
+    "frequency": 456,
+    "example": "Example sentence for word456"
+  },
+  {
+    "english": "word457",
+    "uzbek": "so'z457",
+    "partOfSpeech": "Noun",
+    "frequency": 457,
+    "example": "Example sentence for word457"
+  },
+  {
+    "english": "word458",
+    "uzbek": "so'z458",
+    "partOfSpeech": "Noun",
+    "frequency": 458,
+    "example": "Example sentence for word458"
+  },
+  {
+    "english": "word459",
+    "uzbek": "so'z459",
+    "partOfSpeech": "Noun",
+    "frequency": 459,
+    "example": "Example sentence for word459"
+  },
+  {
+    "english": "word460",
+    "uzbek": "so'z460",
+    "partOfSpeech": "Noun",
+    "frequency": 460,
+    "example": "Example sentence for word460"
+  },
+  {
+    "english": "word461",
+    "uzbek": "so'z461",
+    "partOfSpeech": "Noun",
+    "frequency": 461,
+    "example": "Example sentence for word461"
+  },
+  {
+    "english": "word462",
+    "uzbek": "so'z462",
+    "partOfSpeech": "Noun",
+    "frequency": 462,
+    "example": "Example sentence for word462"
+  },
+  {
+    "english": "word463",
+    "uzbek": "so'z463",
+    "partOfSpeech": "Noun",
+    "frequency": 463,
+    "example": "Example sentence for word463"
+  },
+  {
+    "english": "word464",
+    "uzbek": "so'z464",
+    "partOfSpeech": "Noun",
+    "frequency": 464,
+    "example": "Example sentence for word464"
+  },
+  {
+    "english": "word465",
+    "uzbek": "so'z465",
+    "partOfSpeech": "Noun",
+    "frequency": 465,
+    "example": "Example sentence for word465"
+  },
+  {
+    "english": "word466",
+    "uzbek": "so'z466",
+    "partOfSpeech": "Noun",
+    "frequency": 466,
+    "example": "Example sentence for word466"
+  },
+  {
+    "english": "word467",
+    "uzbek": "so'z467",
+    "partOfSpeech": "Noun",
+    "frequency": 467,
+    "example": "Example sentence for word467"
+  },
+  {
+    "english": "word468",
+    "uzbek": "so'z468",
+    "partOfSpeech": "Noun",
+    "frequency": 468,
+    "example": "Example sentence for word468"
+  },
+  {
+    "english": "word469",
+    "uzbek": "so'z469",
+    "partOfSpeech": "Noun",
+    "frequency": 469,
+    "example": "Example sentence for word469"
+  },
+  {
+    "english": "word470",
+    "uzbek": "so'z470",
+    "partOfSpeech": "Noun",
+    "frequency": 470,
+    "example": "Example sentence for word470"
+  },
+  {
+    "english": "word471",
+    "uzbek": "so'z471",
+    "partOfSpeech": "Noun",
+    "frequency": 471,
+    "example": "Example sentence for word471"
+  },
+  {
+    "english": "word472",
+    "uzbek": "so'z472",
+    "partOfSpeech": "Noun",
+    "frequency": 472,
+    "example": "Example sentence for word472"
+  },
+  {
+    "english": "word473",
+    "uzbek": "so'z473",
+    "partOfSpeech": "Noun",
+    "frequency": 473,
+    "example": "Example sentence for word473"
+  },
+  {
+    "english": "word474",
+    "uzbek": "so'z474",
+    "partOfSpeech": "Noun",
+    "frequency": 474,
+    "example": "Example sentence for word474"
+  },
+  {
+    "english": "word475",
+    "uzbek": "so'z475",
+    "partOfSpeech": "Noun",
+    "frequency": 475,
+    "example": "Example sentence for word475"
+  },
+  {
+    "english": "word476",
+    "uzbek": "so'z476",
+    "partOfSpeech": "Noun",
+    "frequency": 476,
+    "example": "Example sentence for word476"
+  },
+  {
+    "english": "word477",
+    "uzbek": "so'z477",
+    "partOfSpeech": "Noun",
+    "frequency": 477,
+    "example": "Example sentence for word477"
+  },
+  {
+    "english": "word478",
+    "uzbek": "so'z478",
+    "partOfSpeech": "Noun",
+    "frequency": 478,
+    "example": "Example sentence for word478"
+  },
+  {
+    "english": "word479",
+    "uzbek": "so'z479",
+    "partOfSpeech": "Noun",
+    "frequency": 479,
+    "example": "Example sentence for word479"
+  },
+  {
+    "english": "word480",
+    "uzbek": "so'z480",
+    "partOfSpeech": "Noun",
+    "frequency": 480,
+    "example": "Example sentence for word480"
+  },
+  {
+    "english": "word481",
+    "uzbek": "so'z481",
+    "partOfSpeech": "Noun",
+    "frequency": 481,
+    "example": "Example sentence for word481"
+  },
+  {
+    "english": "word482",
+    "uzbek": "so'z482",
+    "partOfSpeech": "Noun",
+    "frequency": 482,
+    "example": "Example sentence for word482"
+  },
+  {
+    "english": "word483",
+    "uzbek": "so'z483",
+    "partOfSpeech": "Noun",
+    "frequency": 483,
+    "example": "Example sentence for word483"
+  },
+  {
+    "english": "word484",
+    "uzbek": "so'z484",
+    "partOfSpeech": "Noun",
+    "frequency": 484,
+    "example": "Example sentence for word484"
+  },
+  {
+    "english": "word485",
+    "uzbek": "so'z485",
+    "partOfSpeech": "Noun",
+    "frequency": 485,
+    "example": "Example sentence for word485"
+  },
+  {
+    "english": "word486",
+    "uzbek": "so'z486",
+    "partOfSpeech": "Noun",
+    "frequency": 486,
+    "example": "Example sentence for word486"
+  },
+  {
+    "english": "word487",
+    "uzbek": "so'z487",
+    "partOfSpeech": "Noun",
+    "frequency": 487,
+    "example": "Example sentence for word487"
+  },
+  {
+    "english": "word488",
+    "uzbek": "so'z488",
+    "partOfSpeech": "Noun",
+    "frequency": 488,
+    "example": "Example sentence for word488"
+  },
+  {
+    "english": "word489",
+    "uzbek": "so'z489",
+    "partOfSpeech": "Noun",
+    "frequency": 489,
+    "example": "Example sentence for word489"
+  },
+  {
+    "english": "word490",
+    "uzbek": "so'z490",
+    "partOfSpeech": "Noun",
+    "frequency": 490,
+    "example": "Example sentence for word490"
+  },
+  {
+    "english": "word491",
+    "uzbek": "so'z491",
+    "partOfSpeech": "Noun",
+    "frequency": 491,
+    "example": "Example sentence for word491"
+  },
+  {
+    "english": "word492",
+    "uzbek": "so'z492",
+    "partOfSpeech": "Noun",
+    "frequency": 492,
+    "example": "Example sentence for word492"
+  },
+  {
+    "english": "word493",
+    "uzbek": "so'z493",
+    "partOfSpeech": "Noun",
+    "frequency": 493,
+    "example": "Example sentence for word493"
+  },
+  {
+    "english": "word494",
+    "uzbek": "so'z494",
+    "partOfSpeech": "Noun",
+    "frequency": 494,
+    "example": "Example sentence for word494"
+  },
+  {
+    "english": "word495",
+    "uzbek": "so'z495",
+    "partOfSpeech": "Noun",
+    "frequency": 495,
+    "example": "Example sentence for word495"
+  },
+  {
+    "english": "word496",
+    "uzbek": "so'z496",
+    "partOfSpeech": "Noun",
+    "frequency": 496,
+    "example": "Example sentence for word496"
+  },
+  {
+    "english": "word497",
+    "uzbek": "so'z497",
+    "partOfSpeech": "Noun",
+    "frequency": 497,
+    "example": "Example sentence for word497"
+  },
+  {
+    "english": "word498",
+    "uzbek": "so'z498",
+    "partOfSpeech": "Noun",
+    "frequency": 498,
+    "example": "Example sentence for word498"
+  },
+  {
+    "english": "word499",
+    "uzbek": "so'z499",
+    "partOfSpeech": "Noun",
+    "frequency": 499,
+    "example": "Example sentence for word499"
+  },
+  {
+    "english": "word500",
+    "uzbek": "so'z500",
+    "partOfSpeech": "Noun",
+    "frequency": 500,
+    "example": "Example sentence for word500"
+  }
+]

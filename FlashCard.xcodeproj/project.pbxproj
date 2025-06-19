@@ -6,6 +6,14 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		494283152E041A600043DE05 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 494283142E041A600043DE05 /* FirebaseAuth */; };
+		494283172E041A600043DE05 /* FirebaseCore in Frameworks */ = {isa = PBXBuildFile; productRef = 494283162E041A600043DE05 /* FirebaseCore */; };
+		494283192E041A600043DE05 /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = 494283182E041A600043DE05 /* FirebaseDatabase */; };
+		4942831B2E041A600043DE05 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 4942831A2E041A600043DE05 /* FirebaseFirestore */; };
+		4942831D2E041A600043DE05 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 4942831C2E041A600043DE05 /* FirebaseStorage */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		494282D12E03EB5E0043DE05 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -52,6 +60,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				494283192E041A600043DE05 /* FirebaseDatabase in Frameworks */,
+				4942831B2E041A600043DE05 /* FirebaseFirestore in Frameworks */,
+				494283172E041A600043DE05 /* FirebaseCore in Frameworks */,
+				4942831D2E041A600043DE05 /* FirebaseStorage in Frameworks */,
+				494283152E041A600043DE05 /* FirebaseAuth in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -112,6 +125,11 @@
 			);
 			name = FlashCard;
 			packageProductDependencies = (
+				494283142E041A600043DE05 /* FirebaseAuth */,
+				494283162E041A600043DE05 /* FirebaseCore */,
+				494283182E041A600043DE05 /* FirebaseDatabase */,
+				4942831A2E041A600043DE05 /* FirebaseFirestore */,
+				4942831C2E041A600043DE05 /* FirebaseStorage */,
 			);
 			productName = FlashCard;
 			productReference = 494282C32E03EB5C0043DE05 /* FlashCard.app */;
@@ -195,6 +213,9 @@
 			);
 			mainGroup = 494282BA2E03EB5C0043DE05;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				494283132E041A600043DE05 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 494282C42E03EB5C0043DE05 /* Products */;
 			projectDirPath = "";
@@ -558,6 +579,45 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		494283132E041A600043DE05 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 11.14.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		494283142E041A600043DE05 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 494283132E041A600043DE05 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		494283162E041A600043DE05 /* FirebaseCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 494283132E041A600043DE05 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseCore;
+		};
+		494283182E041A600043DE05 /* FirebaseDatabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 494283132E041A600043DE05 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseDatabase;
+		};
+		4942831A2E041A600043DE05 /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 494283132E041A600043DE05 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+		4942831C2E041A600043DE05 /* FirebaseStorage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 494283132E041A600043DE05 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseStorage;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 494282BB2E03EB5C0043DE05 /* Project object */;
 }
